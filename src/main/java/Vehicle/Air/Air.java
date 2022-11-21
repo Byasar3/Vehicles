@@ -1,4 +1,4 @@
-package Air;
+package Vehicle.Air;
 
 import Vehicle.Vehicle;
 

@@ -1,4 +1,4 @@
-package Land;
+package Vehicle.Land;
 
 import Vehicle.Vehicle;
 

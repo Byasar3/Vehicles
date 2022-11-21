@@ -1,4 +1,4 @@
-package Water;
+package Vehicle.Water;
 
 import Vehicle.Vehicle;
 
