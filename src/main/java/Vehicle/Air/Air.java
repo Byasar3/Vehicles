@@ -10,4 +10,6 @@ public abstract class Air extends Vehicle {
     public Air(int numberOfWheels, int maxOccupancy, int numberOfEngines, boolean isItCommercial, boolean doesItGoIntoSpace){
         super(numberOfWheels, maxOccupancy, numberOfEngines);
     }
+
+
 }
